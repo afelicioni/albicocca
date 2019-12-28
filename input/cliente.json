@@ -1,0 +1,18 @@
+[
+	{
+		"chiave": "nome",
+		"valore": "Dante",
+		"posizione": {
+			"x": 104,
+			"y": 96
+		}
+	},
+	{
+		"chiave": "cognome",
+		"valore": "Alighieri",
+		"posizione": {
+			"x": 104,
+			"y": 102
+		}
+	}
+]

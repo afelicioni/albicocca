@@ -1,7 +1,8 @@
 {
 	"name": "utente/albicocca",
 	"require": {
-		"mikehaertl/php-pdftk": "^0.7.0"
+		"mikehaertl/php-pdftk": "^0.7.0",
+		"tecnickcom/tcpdf": "^6.3"
 	},
 	"authors": [
 		{
