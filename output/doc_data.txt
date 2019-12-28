@@ -1,0 +1,33 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20181119161420+01'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20181116152740+01'00'
+InfoBegin
+InfoKey: Author
+InfoValue: Pultrone, Dario
+InfoBegin
+InfoKey: Creator
+InfoValue: Microsoft&#174; Word 2010
+InfoBegin
+InfoKey: Producer
+InfoValue: Microsoft&#174; Word 2010
+PdfID0: 75171c27f5879f4983aaf63cbeedf6ce
+PdfID1: 34551c291de6446b8e328483f7cde150
+NumberOfPages: 3
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.32 841.92
+PageMediaDimensions: 595.32 841.92
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.32 841.92
+PageMediaDimensions: 595.32 841.92
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 90
+PageMediaRect: 0 0 841.92 595.2
+PageMediaDimensions: 841.92 595.2

@@ -1,0 +1,12 @@
+{
+	"name": "utente/albicocca",
+	"require": {
+		"mikehaertl/php-pdftk": "^0.7.0"
+	},
+	"authors": [
+		{
+			"name": "Alessio Felicioni",
+			"email": "afelicioni@users.noreply.github.com"
+		}
+	]
+}
